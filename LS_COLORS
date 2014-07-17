@@ -134,7 +134,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .gitignore            38;5;240
 .gitattributes        38;5;240
 .gitmodules           38;5;240
-
+# 2}}}
 # shell {{{2
 .awk                  38;5;172
 .bash                 38;5;172
@@ -144,7 +144,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .sh                   38;5;172
 .zsh                  38;5;172
 .vim                  38;5;172
-
+# 2}}}
 # interpreted {{{2
 .ahk                  38;5;41
 # python
@@ -158,7 +158,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .sql                  38;5;222
 #   Tool Command Language
 .tcl                  38;5;64;1
-
+# 2}}}
 # compiled {{{2
 #
 #   assembly language
@@ -202,7 +202,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .hi                   38;5;110
 #   haskell
 .hs                   38;5;81
-
+# 2}}}
 # binaries {{{2
 # compiled apps for interpreted languages
 .PL                   38;5;160
@@ -214,7 +214,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .html                 38;5;125;1
 .jhtm                 38;5;125;1
 .mht                  38;5;125;1
-# }}}
+# 2}}}
 # java {{{2
 .coffee               38;5;074;1
 .java                 38;5;074;1
@@ -222,12 +222,12 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .jsm                  38;5;074;1
 .jsm                  38;5;074;1
 .jsp                  38;5;074;1
-# }}}
+# 2}}}
 # php {{{2
 .php                  38;5;81
 #   CakePHP view scripts and helpers
 .ctp                  38;5;81
-# }}}
+# 2}}}
 # vb/a {{{2
 .vb                   38;5;81
 .vba                  38;5;81
@@ -243,11 +243,12 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .old                  38;5;242
 .out                  38;5;242
 .SKIP                 38;5;244
-# }}}
+# 2}}}
 # patch files {{{2
 .diff                 48;5;197;38;5;232
 .patch                48;5;197;38;5;232;1
-#}}}
+# 2}}}
+# 1}}}
 # graphics {{{1
 .bmp                  38;5;97
 .tiff                 38;5;97
@@ -263,7 +264,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .png                  38;5;97
 .svg                  38;5;97
 .xpm                  38;5;97
-# }}}
+# 1}}}
 # video {{{1
 .avi                  38;5;114
 .divx                 38;5;114
@@ -291,11 +292,12 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .ts                   38;5;115
 .ogv                  38;5;115
 .f4v                  38;5;115
-  # }}}
+  # 2}}}
   # lossless {{{2
 .VOB                  38;5;115;1
 .vob                  38;5;115;1
-# }}}
+  # 2}}}
+# 1}}}
 # audio {{{1
 .3ga                  38;5;137;1
 .S3M                  38;5;137;1
@@ -318,8 +320,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .wav                  38;5;136;1
 .wv                   38;5;136;1
 .wvc                  38;5;136;1
-
-# }}}
+# 1}}}
 # fonts {{{1
 .afm                  38;5;66
 .pfb                  38;5;66
@@ -329,7 +330,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 #   postscript fonts
 .PFA                  38;5;66
 .pfa                  38;5;66
-# }}}
+# 1}}}
 # archives {{{1
 .7z                   38;5;40
 .a                    38;5;40
@@ -488,6 +489,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .sqlite               38;5;60
 .typelib              38;5;60
 # }}}
+# 1}}}
 # tempfiles {{{1
 # undo files
 .pacnew               38;5;33
@@ -518,12 +520,12 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .pcap                 38;5;29
 .cap                  38;5;29
 .dmp                  38;5;29
-# }}}
+# 1}}}
 # hosts {{{1
 # /etc/hosts.{deny,allow}
 .allow                38;5;112
 .deny                 38;5;196
-# }}}
+# 1}}}
 # systemd {{{1
 # http://www.freedesktop.org/software/systemd/man/systemd.unit.html
 .service              38;5;45
@@ -537,7 +539,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .path                 38;5;45
 .timer                38;5;45
 .snapshot             38;5;45
-# }}}
+# 1}}}
 # metadata {{{1
 .application          38;5;116
 .cue                  38;5;116
@@ -551,7 +553,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .theme                38;5;116
 .torrent              38;5;116
 .urlview              38;5;116
-# }}}
+# 1}}}
 # encrypted data {{{1
 .gpg                  38;5;192;3
 .signature            38;5;192;3
@@ -559,7 +561,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .pgp                  38;5;192;3
 .asc                  38;5;192;3
 .enc                  38;5;192;3
-# }}}
+# 1}}}
 # emulators {{{1
 .32x                  38;5;213
 .cdi                  38;5;213
@@ -588,7 +590,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .nes                  38;5;213
   # Sega
 .sms                  38;5;213
-# }}}
+# 1}}}
 # unsorted {{{1
 #
 #   Portable Object Translation for GNU Gettext
@@ -640,7 +642,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .tfnt                 38;5;7
 .tg                   38;5;7
 .xln                  38;5;7
-# }}}
+# 1}}}
 # termcap {{{1
 TERM ansi
 TERM color-xterm
@@ -692,7 +694,7 @@ TERM xterm-256color
 TERM xterm-88color
 TERM xterm-color
 TERM xterm-debian
-# }}}
+# 1}}}
 
 
 # vim: ft=dircolors:fdm=marker:et:sw=2:
